@@ -1,0 +1,44 @@
+*{
+    align-items: center;
+    justify-content: center;
+    line-height: 1.5;
+
+}
+h1{
+    font-size: 18px;
+}
+h2{
+    font-size: 16px;
+}
+h1,h2{
+    padding-top: 2%;
+    text-align: center;
+}
+#first-section h1{
+    color: green;
+}
+#second-section h1{
+    color: red;
+}
+#third-section h1{
+    color: blue;
+}
+h5{
+    padding: 1% 25%;
+}
+p{
+    font-size: 14px;
+    padding: 1% 25%;
+    text-align: center;
+}
+ol{
+    padding: 1% 25%;
+}
+img{
+    padding-top: 5%;
+  margin-left: 37%;
+}
+.list p{
+    padding: 0% 25%;
+    text-align: left;   
+}
